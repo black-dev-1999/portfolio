@@ -46,7 +46,7 @@ function Hero() {
 
           <div className="mt-8 flex gap-5">
             <a
-              href="https://github.com/karu-1999"
+              href="https://github.com/black-dev-1999"
               target="_blank"
               className="text-slate-400 hover:text-white"
             >

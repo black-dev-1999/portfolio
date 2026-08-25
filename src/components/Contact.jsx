@@ -28,7 +28,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://github.com/karu-1999"
+            href="https://github.com/black-dev-1999"
             target="_blank"
             className="rounded-lg border border-slate-700 px-6 py-3 transition hover:border-blue-500 hover:text-blue-400"
           >
