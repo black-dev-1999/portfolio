@@ -78,12 +78,14 @@ function Hero() {
   role: "Full Stack Developer",
 
   skills: [
-    "React.js",
     "JavaScript",
+    "React.js",
+    "Next.js",
     "Node.js",
     "Express.js",
     "MongoDB",
     "PHP",
+    "Python",
     "MySQL"
   ],
 
